@@ -1,4 +1,4 @@
-import server from "./app/http.mjs";
+import app from "./app/express.mjs";
 import "./routes/all.mjs";
 
-server.listen(80);
+app.listen(80);
