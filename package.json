@@ -1,5 +1,5 @@
 {
-  "name": "hepler",
+  "name": "helper",
   "private": true,
   "dependencies": {
     "async-server": "^0.3.7",
